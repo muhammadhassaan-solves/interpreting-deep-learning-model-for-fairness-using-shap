@@ -20,19 +20,19 @@ This project focuses on implementing a deep learning model to predict income lev
 
 <p align="center">
 Data Loading & Preprocessing <br />
-<img src="https://i.postimg.cc/g2K698dr/data-loading.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/g2K698dr/data-loading.jpg" />
 <br />
 <br />
 Model Building & Training <br/>
-<img src="https://i.postimg.cc/BnCNhjVB/train-model.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/BnCNhjVB/train-model.jpg" />
 <br />
 <br />
 Interpretability with SHAP <br/>
-<img src="https://i.postimg.cc/13Dr88SZ/SHAP.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/13Dr88SZ/SHAP.jpg"  />
 <br />
 <br />
 Bias Detection & Mitigation <br/>
-<img src="https://i.postimg.cc/pLM1cbXR/bias.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/pLM1cbXR/bias.jpg" />
 <br />
 <br />
 
